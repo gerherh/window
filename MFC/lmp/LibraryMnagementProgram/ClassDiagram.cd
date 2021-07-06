@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryMnagementProgramDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Book" Collapsed="true">
+    <Position X="5" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAAAACAQAIAAAABAAAgAAABAAAAAAACAAAgAAAAIAAA=</HashCode>
+      <FileName>Books.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Member" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAgAABggAAAAAAAAAoEAAAAAIAAAAAIAA=</HashCode>
+      <FileName>LibraryMember.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLibraryMnagementProgramApp" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryMnagementProgram.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLibraryMnagementProgramDlg" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="4.5" />
+    <NestedTypes>
+      <Enum Name="CLibraryMnagementProgramDlg::__unnamed_enum_0009_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryMnagementProgramDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>MASDggFSgBBSJBAGABgAKAAAAADAUKQAAQAaACIYAAA=</HashCode>
+      <FileName>LibraryMnagementProgramDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

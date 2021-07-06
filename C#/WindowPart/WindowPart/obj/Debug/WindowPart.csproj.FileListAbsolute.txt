@@ -1,0 +1,10 @@
+E:\window\WindowPart\WindowPart\bin\Debug\WindowPart.exe.config
+E:\window\WindowPart\WindowPart\bin\Debug\WindowPart.exe
+E:\window\WindowPart\WindowPart\bin\Debug\WindowPart.pdb
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.csprojAssemblyReference.cache
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.Form1.resources
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.Properties.Resources.resources
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.csproj.GenerateResource.cache
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.csproj.CoreCompileInputs.cache
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.exe
+E:\window\WindowPart\WindowPart\obj\Debug\WindowPart.pdb
